@@ -1,4 +1,4 @@
-package org.wangp.service.impl;
+package org.wangp.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import org.wangp.pojo.User;
